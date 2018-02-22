@@ -24,37 +24,37 @@ sys.setdefaultencoding('utf-8')
 
 keymsg ="""
 ╔═════════════
-║ ✰ 💚💚#NS3OC💚💚 ✰
+║ ✰ 💚👱💚CICI💚👱💚 ✰
 ╠═════════════
 ║╔════════════
-║╠👱➣google (text)
-║╠👱➣Playstore (text)
-║╠👱➣instagram (username)
-║╠👱➣wikipedia (text)
-║╠👱➣idline (text)
-║╠👱➣time
-║╠👱➣image (text)
-║╠👱➣runtime
-║╠👱➣Restart
-║╠👱➣lirik (text)
-║╠👱➣nah (mention)
-║╠👱➣cctv on/off (Lurk)
-║╠👱➣toong (Lurker)
-║╠👱➣protect on/off
-║╠👱➣qr on/off
-║╠👱➣invite on/off
-║╠👱➣Cancel on/off
-║╠👱➣Simisimi:on/off
-║╠👱➣Read on/off
-║╠👱➣Getinfo @
-║╠👱➣Getcontact @
-║╠👱➣Cium @
-║╠👱➣speed
-║╠👱➣Friendlist
-║╠👱➣id@eny
-║╠👱➣en@id
-║╠👱➣id@jp
-║╠👱➣keybot
+║╠➣google (text)
+║╠➣Playstore (text)
+║╠➣instagram (username)
+║╠➣wikipedia (text)
+║╠➣idline (text)
+║╠➣time
+║╠➣image (text)
+║╠➣runtime
+║╠➣Restart
+║╠➣lirik (text)
+║╠➣nah (mention)
+║╠➣cctv on/off (Lurk)
+║╠➣toong (Lurker)
+║╠➣protect on/off
+║╠➣qr on/off
+║╠➣invite on/off
+║╠➣Cancel on/off
+║╠➣Simisimi:on/off
+║╠➣Read on/off
+║╠➣Getinfo @
+║╠➣Getcontact @
+║╠➣Cium @
+║╠➣speed
+║╠➣Friendlist
+║╠➣id@eny
+║╠➣en@id
+║╠➣id@jp
+║╠➣keybot
 ║╚════════════
 ╚═════════════"""
 
@@ -62,120 +62,120 @@ helpmsg ="""
 ╔═════════════
 ║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
 ╠═════════════
-║  👱💚💚#NS3OC💚💚👱
+║  ✰ 💚👱💚CICI💚👱💚 ✰
 ╠═════════════
 ║╔════════════
-║╠👱➣keypro
-║╠👱➣keyself
-║╠👱➣keygrup
-║╠👱➣keyset
-║╠👱➣keybot
-║╠👱➣mode on/off
+║╠➣keypro
+║╠➣keyself
+║╠➣keygrup
+║╠➣keyset
+║╠➣keybot
+║╠➣mode on/off
 ║╚════════════
 ╚═════════════"""
 
 helppro ="""
 ╔═════════════
-║ ✰ 💚💚#NS3OC💚💚 ✰
+║ ✰ 💚👱💚CICI💚👱💚 ✰
 ╠═════════════
 ║╔════════════
-║╠👱➣mode on/off
-║╠👱➣protect on/off
-║╠👱➣qr on/off
-║╠👱➣invite on/off
-║╠👱➣cancel on/off
+║╠➣mode on/off
+║╠➣protect on/off
+║╠➣qr on/off
+║╠➣invite on/off
+║╠➣cancel on/off
 ║╚════════════
 ╚═════════════"""
 
 helpself ="""
 ╔═════════════
-║ ✰ 💚💚#NS3OC💚💚 ✰
+║ ✰ 💚👱💚CICI💚👱💚 ✰
 ╠═════════════
 ║╔════════════
-║╠👱➣Me
-║╠👱➣Myname:
-║╠👱➣Mybio:
-║╠👱➣Mypict
-║╠👱➣Mycover
-║╠👱➣My copy @
-║╠👱➣My backup
-║╠👱➣Getgroup image
-║╠👱➣Getmid @
-║╠👱➣Getprofile @
-║╠👱➣Getinfo @
-║╠👱➣Getname @
-║╠👱➣Getbio @
-║╠👱➣Getpict @
-║╠👱➣Getcover @
-║╠👱➣sayang (Mention)
-║╠👱➣cctv on/off (Lurking)
-║╠👱➣intip/toong (Lurkers)
-║╠👱➣Micadd @
-║╠👱➣Micdel @
-║╠👱➣Mimic on/off
-║╠👱➣Miclist
+║╠➣Me
+║╠➣Myname:
+║╠➣Mybio:
+║╠➣Mypict
+║╠➣Mycover
+║╠➣My copy @
+║╠➣My backup
+║╠➣Getgroup image
+║╠➣Getmid @
+║╠➣Getprofile @
+║╠➣Getinfo @
+║╠➣Getname @
+║╠➣Getbio @
+║╠➣Getpict @
+║╠➣Getcover @
+║╠➣sayang (Mention)
+║╠➣cctv on/off (Lurking)
+║╠➣intip/toong (Lurkers)
+║╠➣Micadd @
+║╠➣Micdel @
+║╠➣Mimic on/off
+║╠➣Miclist
 ║╚════════════
 ╚═════════════"""
 
 helpset ="""
 ╔═════════════
-║ ✰ 💚💚#NS3OC💚💚 ✰
+║ ✰ 💚👱💚CICI💚👱💚 ✰
 ║╔════════════
-║╠👱➣contact on/off
-║╠👱➣autojoin on/off
-║╠👱➣auto leave on/off
-║╠👱➣autoadd on/off
-║╠👱➣like frien\d
-║╠👱➣link on
-║╠👱➣respon on/off
-║╠👱➣read on/off
-║╠👱➣simisimi on/off
-║╠👱➣Sambut on/off
-║╠👱➣Pergi on/off
-║╠👱➣Respontag on/off
-║╠👱➣Kicktag on/off
+║╠➣contact on/off
+║╠➣autojoin on/off
+║╠➣auto leave on/off
+║╠➣autoadd on/off
+║╠➣like frien\d
+║╠➣link on
+║╠➣respon on/off
+║╠➣read on/off
+║╠➣simisimi on/off
+║╠➣Sambut on/off
+║╠➣Pergi on/off
+║╠➣Respontag on/off
+║╠➣Kicktag on/off
 ║╚════════════
 ╚═════════════"""
 
 helpgrup ="""
 ╔═════════════
-║ ✰ 💚💚#NS3OC💚💚 ✰
+║ ✰ 💚👱💚CICI💚👱💚 ✰
 ╠═════════════
 ║╔════════════
-║╠👱➣Link on
-║╠👱➣Url
-║╠👱➣Cancel
-║╠👱➣Gcreator
-║╠👱➣Kick @
-║╠👱➣Cium @
-║╠👱➣Gname:
-║╠👱➣Gbroadcast:
-║╠👱➣Cbroadcast:
-║╠👱➣Infogrup
-║╠👱➣Gruplist
-║╠👱➣Friendlist
-║╠👱➣Blacklist
-║╠👱➣Ban @
-║╠👱➣Unban @
-║╠👱➣Clearban
-║╠👱➣Banlist
-║╠👱➣Contact ban
-║╠👱➣Midban
+║╠➣Link on
+║╠➣Url
+║╠➣Cancel
+║╠➣Gcreator
+║╠➣Kick @
+║╠➣Cium @
+║╠➣Gname:
+║╠➣Gbroadcast:
+║╠➣Cbroadcast:
+║╠➣Infogrup
+║╠➣Gruplist
+║╠➣Friendlist
+║╠➣Blacklist
+║╠➣Ban @
+║╠➣Unban @
+║╠➣Clearban
+║╠➣Banlist
+║╠➣Contact ban
+║╠➣Midban
 ║╚════════════
 ║╔════════════
-║╠👱➣Id@en
-║╠👱➣En@id
-║╠👱➣Id@jp
-║╠👱➣Jp@id
-║╠👱➣Id@th
-║╠👱➣Th@id
-║╠👱➣Id@ar
-║╠👱➣Ar@id
-║╠👱➣Id@ko
-║╠👱➣Ko@id
-║╠👱➣Say-id
-║╠👱➣Say-en
-║╠👱➣Say-jp
+║╠➣Id@en
+║╠➣En@id
+║╠➣Id@jp
+║╠➣Jp@id
+║╠➣Id@th
+║╠➣Th@id
+║╠➣Id@ar
+║╠➣Ar@id
+║╠➣Id@ko
+║╠➣Ko@id
+║╠➣Say-id
+║╠➣Say-en
+║╠➣Say-jp
 ║╚════════════
 ╚═════════════"""
 
@@ -188,6 +188,7 @@ admin=["u986c71616f66e33497b7426fb613cf03","uc301fa8f0962f52b1f2d83dc251589cb",m
 wait = {
     "likeOn":False,
     "alwayRead":False,
+    "potoMention":False,
     "detectMention":True,    
     "kickMention":False,
     "steal":True,
@@ -552,7 +553,7 @@ def bot(op):
                  if wait["detectMention"] == True:
                      contact = kr.getContact(msg.from_)
                      cName = contact.displayName
-                     balas = ["Don't Tag Me! iam Bussy!, ",cName + "Ada perlu apa beb 😴, ?",cName + " Beb pc aja klo urgent! sedang sibuk 😪,", "kenapa Beb 😇, ", cName + " kangen ya beb 😴?","kangen bilang gak usah tag tag Beb😲, " + cName, "kenapa beb,ni masih nikung 😇, " + cName, "apasi beb?ni lagi kojom 😋, " + cName + "?", "pulang gih beb😂,lukan jones😂, " + cName + "?","aya naon Beb 😲, ?" + cName + "😴😴 masi tidur Beb -_-"]
+                     balas = ["Don't Tag Me! iam Bussy!, ",cName + "Ada perlu apa kk 😴, ?",cName + " kak pc aja klo urgent! sedang sibuk 😪,", "kenapa kak 😇, ", cName + " kangen ya kak 😴?","kangen bilang gak usah tag tag kak😲, " + cName, "kenapa kak,ni masih nikung 😇, " + cName, "apasi kak?ni lagi kojom 😋, " + cName + "?", "pulang gih kak😂,lukan jones😂, " + cName + "?","aya naon kak 😲, ?" + cName + "😴😴 masi tidur kak -_-"]
                      ret_ = "." + random.choice(balas)
                      name = re.findall(r'@(\w+)', msg.text)
                      mention = ast.literal_eval(msg.contentMetadata['MENTION'])
@@ -583,6 +584,19 @@ def bot(op):
                                   kr.sendText(msg.to,ret_)
                                   kr.kickoutFromGroup(msg.to,[msg.from_])
                                   break
+				  
+	    if "MENTION" in msg.contentMetadata.keys() != None:
+                 if wait['potoMention'] == True:
+                     contact = kr1.getContact(msg.from_)
+                     cName = contact.pictureStatus
+                     balas = ["http://dl.profile.line-cdn.net/" + cName]
+                     ret_ = random.choice(balas)
+                     mention = ast.literal_eval(msg.contentMetadata["MENTION"])
+                     mentionees = mention["MENTIONEES"]
+                     for mention in mentionees:
+                           if mention["M"] in Bots:
+                                  kr1.sendImageWithURL(msg.to,ret_)
+                                  break  		  
             
             if msg.contentType == 13:
                 if wait['invite'] == True:
@@ -894,7 +908,7 @@ def bot(op):
                 cctv['sidermem'][msg.to] = ""
                 cctv['cyduk'][msg.to]=True
                 wait["Sider"] = True
-                kr.sendText(msg.to,"Sider apa kabar,,main yuk 😆😆")            
+                kr.sendText(msg.to,"Hai Sider apa kabar,, 😆😆")            
             elif "Sider off" in msg.text:
                 if msg.to in cctv['point']:
                     cctv['cyduk'][msg.to]=False
@@ -1115,11 +1129,11 @@ def bot(op):
                 else:md+="╠❂➣Cancel Protect:off [❌]\n╚═════════════"
                 kr.sendText(msg.to,md)
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': "u986c71616f66e33497b7426fb613cf03"}
+                msg.contentMetadata = {'mid': "uc301fa8f0962f52b1f2d83dc251589cb"}
                 kr.sendMessage(msg)
             elif cms(msg.text,["creator","Creator"]):
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': "u986c71616f66e33497b7426fb613cf03"}
+                msg.contentMetadata = {'mid': "uc301fa8f0962f52b1f2d83dc251589cb"}
                 kr.sendMessage(msg)
              #   kr.sendText(msg.to,'❂➣ Creator yang manis kalem  􀜁􀄯􏿿')
  #           elif msg.text.lower() == 'autoadd on':
@@ -1273,35 +1287,6 @@ def bot(op):
                     print error   
 
 #========================== FOR COMMAND BOT FINISHED =============================#
-            elif "Spam change:" in msg.text:
-                if msg.toType == 2:
-                 wait["spam"] = msg.text.replace("Spam change:","")
-                kr.sendText(msg.to,"spam changed")
-
-            elif "Spam add:" in msg.text:
-                if msg.toType == 2:
-                 wait["spam"] = msg.text.replace("Spam add:","")
-                if wait["lang"] == "JP":
-                    kr.sendText(msg.to,"spam changed")
-                else:
-                    kr.sendText(msg.to,"Done")
-
-            elif "Spam:" in msg.text:
-                if msg.toType == 2:
-                 strnum = msg.text.replace("Spam:","")
-                num = int(strnum)
-                for var in range(0,num):
-                    kr.sendText(msg.to, wait["spam"])
-#=====================================
-            elif "Spam " in msg.text:
-                if msg.toType == 2:
-                  bctxt = msg.text.replace("Spam ", "")
-                  t = kr.getAllContactIds()
-                  t = 500
-                  while(t):
-                    kr.sendText(msg.to, (bctxt))
-                    t-=1
-#==============================================
             elif "Spamcontact @" in msg.text:
                 _name = msg.text.replace("Spamcontact @","")
                 _nametarget = _name.rstrip(' ')
@@ -1467,7 +1452,18 @@ def bot(op):
                        print " Spammed !"
 
 #==============================================================================#
-            elif msg.text in ["Invite"]:
+            
+            elif msg.text in ["Respoto on","respoto on"]:
+                if msg.from_ in admin:
+                    wait['potoMention'] = True
+                    kr1.sendText(msg.to,"Auto respon tag poto On")
+
+            elif msg.text in ["Respoto off","respoto off"]:
+                if msg.from_ in admin:
+                    wait['potoMention'] = False
+                    kr1.sendText(msg.to,"Auto respon tag poto Off")
+
+	    elif msg.text in ["Invite"]:
                 wait["invite"] = True
                 kr.sendText(msg.to,"Send Contact")
             
@@ -2011,7 +2007,7 @@ def bot(op):
                              cnt = Message()
                              #cnt.text = "Hasil Tag : " +str(jml)
                              cnt.to = msg.to
-                             kr.sendText(msg.to,"Ciluk baa...😲😲")
+                             kr.sendText(msg.to,"Haai kak...😲😲")
                              kr.sendMessage(cnt) 
   
             elif "Gbroadcast: " in msg.text:
@@ -2025,21 +2021,21 @@ def bot(op):
                 gid = kr.getAllContactIds()
                 for i in gid:
                     kr.sendText(i, bc)
-            elif "megs " in msg.text: 
-              if msg.from_ in owner: 
-                gName = msg.text.replace("megs ","") 
-                ap = kr.getGroups([msg.to]) 
-                semua = [contact.mid for contact in ap[0].members]
-                nya = ap[0].members 
-                for a in nya: 
-                    Mi_d = str(a.mid) 
-                    kr.createGroup(gName, semua) 
-                    kr.createGroup(gName, semua) 
-                    kr.createGroup(gName, semua) 
-                    kr.createGroup(gName, semua) 
-                    kr.createGroup(gName, semua) 
-                    kr.createGroup(gName, semua) 
-                    kr.createGroup(gName, semua)
+#            elif "megs " in msg.text: 
+#              if msg.from_ in owner: 
+#                gName = msg.text.replace("megs ","") 
+#                ap = kr.getGroups([msg.to]) 
+#                semua = [contact.mid for contact in ap[0].members]
+#                nya = ap[0].members 
+#                for a in nya: 
+#                    Mi_d = str(a.mid) 
+#                    kr.createGroup(gName, semua) 
+#                    kr.createGroup(gName, semua) 
+#                    kr.createGroup(gName, semua) 
+#                    kr.createGroup(gName, semua) 
+#                    kr.createGroup(gName, semua) 
+#                    kr.createGroup(gName, semua) 
+#                    kr.createGroup(gName, semua)
             elif "#megs " in msg.text: 
               if msg.from_ in owner: 
                 gName = msg.text.replace("#megs ","") 
@@ -2100,23 +2096,6 @@ def bot(op):
             #elif msg.text in ["Salam2"]: 
                 #ki.sendText(msg.to,"وَعَلَيْكُمْ الَرَحمَُ اللهِوَبَرَكَاتُهُ" )
              #kk.sendText(msg.to,"Wa'alaikumsallam.Wr,Wb")
-            elif "Spam change: " in msg.text:
-                wait["spam"] = msg.text.replace("Spam change: ","")
-                kr.sendText(msg.to,"spam changed")
-
-            elif "Spam add: " in msg.text:
-                wait["spam"] = msg.text.replace("Spam add: ","")
-                if wait["lang"] == "JP":
-                    kr.sendText(msg.to,"spam changed")
-                else:
-                    kr.sendText(msg.to,"Done")
-    
-            elif "Spam: " in msg.text:
-                strnum = msg.text.replace("Spam: ","")
-                num = int(strnum)
-                for var in range(0,num):
-                    kr.sendText(msg.to, wait["spam"])
-            
             elif "Spamtag @" in msg.text:
                 _name = msg.text.replace("Spamtag @","")
                 _nametarget = _name.rstrip(' ')
@@ -2151,22 +2130,22 @@ def bot(op):
                     else:
                         pass
             
-            elif "Spam" in msg.text:
-                txt = msg.text.split(" ")
-                jmlh = int(txt[2])
-                teks = msg.text.replace("Spam "+str(txt[1])+" "+str(jmlh)+" ","")
-                tulisan = jmlh * (teks+"\n")
-                if txt[1] == "on":
-                    if jmlh <= 100000:
-                       for x in range(jmlh):
-                           kr.sendText(msg.to, teks)
-                    else:
-                       kr.sendText(msg.to, "Out of Range!")
-                elif txt[1] == "off":
-                    if jmlh <= 100000:
-                        kr.sendText(msg.to, tulisan)
-                    else:
-                        kr.sendText(msg.to, "Out Of Range!")
+ #           elif "Spam" in msg.text:
+ #               txt = msg.text.split(" ")
+ #               jmlh = int(txt[2])
+ #               teks = msg.text.replace("Spam "+str(txt[1])+" "+str(jmlh)+" ","")
+ #               tulisan = jmlh * (teks+"\n")
+ #               if txt[1] == "on":
+ #                   if jmlh <= 100000:
+ #                      for x in range(jmlh):
+ #                          kr.sendText(msg.to, teks)
+ #                   else:
+ #                      kr.sendText(msg.to, "Out of Range!")
+ #               elif txt[1] == "off":
+ #                   if jmlh <= 100000:
+ #                       kr.sendText(msg.to, tulisan)
+ #                   else:
+ #                       kr.sendText(msg.to, "Out Of Range!")
                         
             elif ("Micadd " in msg.text):
                 targets = []
@@ -2910,7 +2889,7 @@ def bot(op):
 
             elif cms(msg.text,["/creator","Creator"]):
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': "u986c71616f66e33497b7426fb613cf03"}
+                msg.contentMetadata = {'mid': "uc301fa8f0962f52b1f2d83dc251589cb"}
                 kr.sendMessage(msg)
 
             elif "friendpp: " in msg.text:
@@ -3159,12 +3138,12 @@ def bot(op):
                         except Exception as e:
                             kr.sendText(msg.to, str(e))    
                             
-            elif "say " in msg.text.lower():
-                say = msg.text.lower().replace("say ","")
-                lang = 'id'
-                tts = gTTS(text=say, lang=lang)
-                tts.save("hasil.mp3")
-                kr.sendAudio(msg.to,"hasil.mp3")
+#            elif "say " in msg.text.lower():
+#                say = msg.text.lower().replace("say ","")
+#                lang = 'id'
+#                tts = gTTS(text=say, lang=lang)
+#                tts.save("hasil.mp3")
+#                kr.sendAudio(msg.to,"hasil.mp3")
                 
             elif msg.text in ["spam gift"]:
                 msg.contentType = 9
@@ -3348,10 +3327,10 @@ def bot(op):
                 kr.sendMessage(msg)
                 kr.sendMessage(msg)
                 
-            elif msg.text.lower() == '###':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': "ua7fb5762d5066629323d113e1266e8ca',"}
-                kr.sendMessage(msg)    
+#            elif msg.text.lower() == '###':
+#                msg.contentType = 13
+#                msg.contentMetadata = {'mid': "ua7fb5762d5066629323d113e1266e8ca',"}
+#                kr.sendMessage(msg)    
 #=================================KRIS SCRIPT FINISHED =============================================#
             
             elif "Ban @" in msg.text:
@@ -3635,11 +3614,11 @@ def bot(op):
                                 if " " in Name:
                                     nick = Name.split(' ')
                                     if len(nick) == 2:
-                                        random.choice(KAC).sendText(op.param1, "Haii " + "☞ " + nick[0] + " ☜" + "\nNgintip Aja Niih kak 😁. . .\nSini gabung Chat Kek 😉")
+                                        random.choice(KAC).sendText(op.param1, "Haii " + "☞ " + nick[0] + " ☜" + "\nnah ngpian kak 😁. . .\nSini gabung Chat sama cici 😉")
                                     else:
-                                        random.choice(KAC).sendText(op.param1, "Haii " + "☞ " + nick[1] + " ☜" + "\nihh Betah Banget ngintip Kak 😏. . .\nDasar jones 😆😂😛")
+                                        random.choice(KAC).sendText(op.param1, "Haii " + "☞ " + nick[1] + " ☜" + "\nihh ngintip ya Kak 😏. . .\nDasar kak jones 😆😂😛")
                                 else:
-                                    random.choice(KAC).sendText(op.param1, "Haii " + "☞ " + Name + " ☜" + "\nNgapain Ngintip Aja???😆😆\nCiyeee Sijones ,,,lagi intipin aku yaa 😋 😝kkkk.  ")
+                                    random.choice(KAC).sendText(op.param1, "Haii " + "☞ " + Name + " ☜" + "\nNgapain Ngintip Aja???😆😆\nCiyeee Sijones ,,,lagi intipin cici yaa 😋 😝kkkk.  ")
                         else:
                             pass
                 else:
