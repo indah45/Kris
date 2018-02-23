@@ -25,7 +25,7 @@ class Channel:
     #UA = "Line/6.0.0 iPad4,1 9.0.2"
     #LA = "DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0"
     #UA = "Line/7.18.0 AppleWebKit/534.30"#"Line/6.0.0 iPad4,1 9.0.2"
-    LA = "DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0"
+    LA = "IOSIPAD\x097.14.0\x09iPhone_OS\x0910.12.0"
 
     authToken = None
     mid = None
