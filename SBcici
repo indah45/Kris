@@ -15,7 +15,7 @@ from gtts import gTTS
 
 kr = KRIS.LINE()
 #kr.login(qr=True)
-kr.login(token='EqCaNcDC')#r
+kr.login(token='EqP9JGGxw7XKcRpHLipc.66mCLDComSJQLSiKXT7Mla.KbShDnMt2NZXKZLkdcSvvJx7Jam9TryP1fg3D78zIxI=')#r
 kr.loginResult()
 
 print "╔════════════════════════════════════════════════════\n╠❂➣[KBERHASIL LOGIN]\n╚════════════════════════════════════════════════════"
